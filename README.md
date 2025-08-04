@@ -1,16 +1,108 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Ahamed Jazira M 👋</h1>
 
-<!--
-**AhamedJazira-M/AhamedJazira-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AI+/+ML+%F0%9F%92%BB+and+Data+Analytics+Enthusiast+%F0%9F%93%8A;Python+%F0%9F%8C%9F+Explorer+%F0%9F%8C%90+Active+Learner+%F0%9F%A7%A0" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 AI / ML Explorer | 📊 Data Analytics Enthusiast | 💻 Python Developer | 🚀 Upgrading my skills
+
+---
+
+### 🚧 Currently Working On
+- 🤖 AI & ML Projects  
+- 🐍 Python-based tools  
+- 📊 Real-world Data Analytics tools  
+- 🔍 Exploring LLM applications  
+
+---
+
+### 🤝 Looking to Collaborate On
+- 🤖 Hugging Face Transformers, Groq Platform  
+- 🌐 Open Source Projects  
+- 📊 BI Tools like PowerBI & Tableau  
+
+---
+
+### 📚 Currently Learning
+- 🧠 LLMs (Large Language Models)  
+- 🔊 VAD (Voice Activity Detection)  
+- 🧠 RAG (Retrieval-Augmented Generation)  
+- 📊 Data Analytics Concepts  
+- ☕ Core Java  
+
+---
+
+### 💬 Ask Me About
+- 🔎 Building AI / ML models  
+- 🐍 Python development  
+
+---
+
+### ⚡ Fun Fact  
+> “I automate what I repeat, and analyze what I don’t understand.”
+
+---
+
+### 🛠️ Languages and Tools
+
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Groq-101010?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhamedJazira-M&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhamedJazira-M&theme=radical" width="47%" />
+</p>
+
+---
+
+
+
+### 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhamedJazira-M&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 📬 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/ahamedjazira" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ahamedjazira23@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=AhamedJazira-M&style=flat-square&color=blue)
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AhamedJazira-M&theme=algolia&no-frame=true&row=1" />
+</p>
+
+---
