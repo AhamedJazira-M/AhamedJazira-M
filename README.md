@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Ahamed Jazira M 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AI+/+ML+%F0%9F%92%BB+and+Data+Analytics+Enthusiast+%F0%9F%93%8A;🌟+Python+Explorer+%F0%9F%8C%90+Active+Learner+%F0%9F%A7%A0" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7D423&center=true&vCenter=true&width=500&lines=AI+%2F+ML+%F0%9F%92%BB+and+Data+Analytics+Enthusiast+%F0%9F%93%8A;%F0%9F%8C%9F+Python;Explorer+%F0%9F%8C%90+%7C+Active+Learner+%F0%9F%A7%A0" alt="Typing SVG" />
+</h1>
 
 ---
 
@@ -66,7 +66,7 @@
 
 ### 👁️ Visitor Count
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=AhamedJazira-M&style=flat-square&color=blue" />
 </p>
 
