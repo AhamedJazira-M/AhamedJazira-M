@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ahamed Jazira M 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AI+/+ML+%F0%9F%92%BB+and+Data+Analytics+Enthusiast+%F0%9F%93%8A;Python+%F0%9F%8C%9F+Explorer+%F0%9F%8C%90+Active+Learner+%F0%9F%A7%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AI+/+ML+%F0%9F%92%BB+and+Data+Analytics+Enthusiast+%F0%9F%93%8A;🌟+Python+Explorer+%F0%9F%8C%90+Active+Learner+%F0%9F%A7%A0" alt="Typing SVG" />
 </p>
 
 ---
@@ -41,24 +41,33 @@
 ---
 
 ### ⚡ Fun Fact  
-> “I automate what I repeat, and analyze what I don’t understand.”
+> “My code compiles perfectly... until someone watches me run it.”
+> 
 
 ---
 
 ### 🛠️ Languages and Tools
 
-<p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Groq-101010?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Groq-101010?style=for-the-badge&logoColor=white&labelColor=gray" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black" />
+</p>
+
+---
+
+### 👁️ Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AhamedJazira-M&style=flat-square&color=blue" />
 </p>
 
 ---
@@ -72,8 +81,6 @@
 
 ---
 
-
-
 ### 💻 Most Used Languages
 
 <p align="center">
@@ -85,7 +92,7 @@
 ### 📬 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/ahamedjazira" target="_blank">
+  <a href="https://www.linkedin.com/in/ahamed-jazira2301" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ahamedjazira23@gmail.com">
@@ -95,14 +102,8 @@
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=AhamedJazira-M&style=flat-square&color=blue)
-
----
-
 ### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AhamedJazira-M&theme=algolia&no-frame=true&row=1" />
 </p>
-
----
