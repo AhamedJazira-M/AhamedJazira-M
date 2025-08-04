@@ -42,7 +42,7 @@
 ---
 
 ### ⚡ Fun Fact  
-> “My code compiles perfectly... until someone watches me run it.”
+> “My code compiles perfectly... until someone watches me run it 😂”
 > 
 
 ---
