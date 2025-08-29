@@ -68,6 +68,7 @@
 
 ---
 
+
 ### 👁️ Visitor Count
 
 <p align="left">
@@ -79,9 +80,15 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhamedJazira-M&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhamedJazira-M&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhamedJazira-M&show_icons=true&theme=radical&cache_seconds=60" width="47%" />
+  <img src="https://streak-stats.demolab.com/?user=AhamedJazira-M&theme=radical&cache_seconds=60" width="47%" />
 </p>
+
+---
+### 🔥 Activity Graph
+
+[![Ahamed's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AhamedJazira-M&bg_color=030303&color=EE82EE&line=FF69B4&point=FF69B4&area=true&hide_border=true&cache_seconds=60)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
