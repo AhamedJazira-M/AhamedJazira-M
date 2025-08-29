@@ -116,5 +116,5 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AhamedJazira-M&theme=algolia&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AhamedJazira-M&theme=algolia&no-frame=true&row=1&cache_seconds=60" />
 </p>
